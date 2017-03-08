@@ -13,3 +13,5 @@ RoxygenNote: 6.0.0.9000
 Roxygen: list(markdown = TRUE)
 Imports: monads
 Remotes: ijlyttle/monads
+URL: https://github.com/ijlyttle/safer
+BugReports: https://github.com/ijlyttle/safer/issues
